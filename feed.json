@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Donald&#x27;s Place",
+    "description": "",
+    "home_page_url": "https://dchurch315.github.io",
+    "feed_url": "https://dchurch315.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "dchurch315"
+    },
+    "items": [
+        {
+            "id": "https://dchurch315.github.io/first-post.html",
+            "url": "https://dchurch315.github.io/first-post.html",
+            "title": "First Post!",
+            "summary": "Nothing to say, just checking to make sure everything is 5 by 5. - Donald",
+            "content_html": "<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://dchurch315.github.io/media/posts/1/basketball-hoop-icon-2\" alt=\"\" width=\"160\" height=\"160\"></figure>Nothing to say, just checking to make sure everything is 5 by 5.</p>\n<p>- Donald</p>",
+            "author": {
+                "name": "dchurch315"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-26T12:18:50-05:00",
+            "date_modified": "2023-02-26T12:18:50-05:00"
+        }
+    ]
+}
