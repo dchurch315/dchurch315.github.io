@@ -13,15 +13,15 @@
             "id": "https://dchurch315.github.io/first-post.html",
             "url": "https://dchurch315.github.io/first-post.html",
             "title": "First Post!",
-            "summary": "Nothing to say, just checking to make sure everything is 5 by 5. - Donald",
-            "content_html": "<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://dchurch315.github.io/media/posts/1/basketball-hoop-icon-2\" alt=\"\" width=\"160\" height=\"160\"></figure>Nothing to say, just checking to make sure everything is 5 by 5.</p>\n<p>- Donald</p>",
+            "summary": "Nothing to say yet, just checking to make sure everything is 5 by 5.",
+            "content_html": "<p>Nothing to say yet, just checking to make sure everything is 5 by 5.</p>",
             "author": {
                 "name": "dchurch315"
             },
             "tags": [
             ],
             "date_published": "2023-02-26T12:18:50-05:00",
-            "date_modified": "2023-02-26T12:18:50-05:00"
+            "date_modified": "2023-02-26T13:14:34-05:00"
         }
     ]
 }
