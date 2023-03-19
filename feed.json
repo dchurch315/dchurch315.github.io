@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Donald&#x27;s Place",
     "description": "",
-    "home_page_url": "https://dchurch315.github.io",
-    "feed_url": "https://dchurch315.github.io/feed.json",
+    "home_page_url": "https://dev.donaldchurch.com",
+    "feed_url": "https://dev.donaldchurch.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "dchurch315"
     },
     "items": [
         {
-            "id": "https://dchurch315.github.io/first-post.html",
-            "url": "https://dchurch315.github.io/first-post.html",
+            "id": "https://dev.donaldchurch.com/first-post.html",
+            "url": "https://dev.donaldchurch.com/first-post.html",
             "title": "First Post!",
             "summary": "Nothing to say yet, just checking to make sure everything is 5 by 5.",
             "content_html": "<p>Nothing to say yet, just checking to make sure everything is 5 by 5.</p>",
