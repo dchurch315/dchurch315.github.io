@@ -3,29 +3,31 @@
     <title>Donald&#x27;s Place</title>
     <link href="https://dev.donaldchurch.com/feed.xml" rel="self" />
     <link href="https://dev.donaldchurch.com" />
-    <updated>2023-02-26T13:14:34-05:00</updated>
+    <updated>2023-08-03T08:12:31-04:00</updated>
     <author>
         <name>dchurch315</name>
     </author>
     <id>https://dev.donaldchurch.com</id>
 
     <entry>
-        <title>First Post!</title>
+        <title>Why has Rust gotten so popular?</title>
         <author>
             <name>dchurch315</name>
         </author>
         <link href="https://dev.donaldchurch.com/first-post.html"/>
         <id>https://dev.donaldchurch.com/first-post.html</id>
 
-        <updated>2023-02-26T13:14:34-05:00</updated>
+        <updated>2023-08-03T08:12:31-04:00</updated>
             <summary>
                 <![CDATA[
-                    Nothing to say yet, just checking to make sure everything is 5 by 5.
+                    Everyday, two things are certain. The sun appears to rise in the East and another article expounds upon the wonder that is the Rust programming language. But to these eyes the only thing that seems to be written in it of note that more causal&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Nothing to say yet, just checking to make sure everything is 5 by 5.</p>
+                <p>Everyday, two things are certain. The sun appears to rise in the East and another article expounds upon the wonder that is the Rust programming language. But to these eyes the only thing that seems to be written in it of note that more causal users is the new Pop OS window manager. Which hasn't been released yet.</p>
+<p>Every couple of months I glance around the forums and geek news sites to see if the avalanche that keeps getting promised has arrived, covering us all with new applications, device drivers and libraries to shield us from the tyranny of memory leaks. Nothing. Even the tool-kits seem to have stagnated for the most part, only token improvements that add features already present in GTK. In 1999.</p>
+<p>Maybe I am just looking in the wrong place.</p>
             ]]>
         </content>
     </entry>
