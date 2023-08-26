@@ -13,15 +13,15 @@
             "id": "https://dev.donaldchurch.com/first-post.html",
             "url": "https://dev.donaldchurch.com/first-post.html",
             "title": "Why has Rust gotten so popular?",
-            "summary": "Everyday, two things are certain. The sun appears to rise in the East and another article expounds upon the wonder that is the Rust programming language. But to these eyes the only thing that seems to be written in it of note that more causal&hellip;",
-            "content_html": "<p>Everyday, two things are certain. The sun appears to rise in the East and another article expounds upon the wonder that is the Rust programming language. But to these eyes the only thing that seems to be written in it of note that more causal users is the new Pop OS window manager. Which hasn't been released yet.</p>\n<p>Every couple of months I glance around the forums and geek news sites to see if the avalanche that keeps getting promised has arrived, covering us all with new applications, device drivers and libraries to shield us from the tyranny of memory leaks. Nothing. Even the tool-kits seem to have stagnated for the most part, only token improvements that add features already present in GTK. In 1999.</p>\n<p>Maybe I am just looking in the wrong place.</p>",
+            "summary": "Everyday, two things are certain. The sun appears to rise in the East and another article expounds upon the wonder that is the Rust programming language. But to these eyes the only thing that seems to be written in it of note that casual users&hellip;",
+            "content_html": "<p>Everyday, two things are certain. The sun appears to rise in the East and another article expounds upon the wonder that is the Rust programming language. But to these eyes the only thing that seems to be written in it of note that casual users see is the new Pop OS window manager. Which hasn't been released yet.</p>\n<p>Every couple of months I glance around the forums and geek news sites to see if the avalanche that keeps getting promised has arrived, covering us all with new applications, device drivers and libraries to shield us from the tyranny of memory leaks. Nothing. Even the tool-kits seem to have stagnated for the most part, only token improvements that add features already present in GTK. In 1999.</p>\n<p>Maybe I am just looking in the wrong place.</p>",
             "author": {
                 "name": "dchurch315"
             },
             "tags": [
             ],
             "date_published": "2023-02-26T12:18:50-05:00",
-            "date_modified": "2023-08-03T08:12:31-04:00"
+            "date_modified": "2023-08-25T18:50:15-04:00"
         }
     ]
 }
